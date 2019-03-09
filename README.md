@@ -4,5 +4,5 @@ This is an interview challenge for HeadStorm using HTML, CSS, and JavaScript to 
 
 You will need to run on a local host in order for the google reCAPTCHA to work properly.
 
-The only thing that needs to be updated is the background color needing to be the full size of any browser and the reCAPTCHA feedback option
+The only thing that needs to be updated is the reCAPTCHA feedback option stating it worked on the user end.
 
